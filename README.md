@@ -3,6 +3,8 @@ ZCZC Sistem Operasi 2018 awal(1)
 
 ZCZC W01 Demo: done
 
-ZCZC W02
+ZCZC W02 Demo: selesai!
 
-ZCZC W03
+ZCZC W03 Demo: done :)
+
+ZCZC W04 Demo: done :)
